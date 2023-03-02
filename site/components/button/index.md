@@ -1,9 +1,7 @@
-# button
+# Button
 
-按钮
+按钮 用于开始
 
 ## 演示例子
 
-::: deme 用法
-
-<demo src="../../demos/button/basic.vue"></demo>
+<demo src="../../demos/button/basic.vue" raw></demo>
